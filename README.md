@@ -1,4 +1,5 @@
-# 2-guest-ledger-book
+# Guest Ledger Book
+Two input boxes, one for email and one for message. After submitting the form, a card with title as email and content as message will be added to the list.
 
 ## Project setup
 ```
